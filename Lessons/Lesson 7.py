@@ -37,6 +37,3 @@ if (1 > 0) or (-1 >= 0):
 else:
     print('at least one part is false')
 
-# Checking Data
-
-import numpy
